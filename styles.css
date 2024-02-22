@@ -1,0 +1,115 @@
+body{ background-color: #561C24;}
+
+
+table{
+  border: 5px solid #561C24 ;
+
+
+
+}
+td img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+tr {
+  height: 50px;
+}
+h2{
+  text-align: center;
+  background-color: rgb(199, 183, 163);
+  color: #561C24;
+  font-size: 200%;
+}
+
+/* nav  */
+
+ul {
+	display: flex;
+}
+
+li {
+	list-style: none;
+	margin: 1rem;
+}
+
+.nav {
+  display: flex;
+  background-color: rgb(199, 183, 163);
+  color: #561C24;
+  font-weight: bold;
+  text-align: center;
+
+
+}
+  /* about  */
+  .about{
+    padding: 2%;
+    background-color: rgb(199, 183, 163) 
+}
+.about img{
+    width: 400px;
+    height: 300px;
+    padding: 2%;
+}
+.about p {
+  margin: 4%;
+  font-size: large;
+  text-align: center;
+}
+/* work  */
+.work   {
+      background-color: rgb(199, 183, 163);
+      padding: 2%;
+    }
+    
+    .work img{
+      width: 450px;
+      padding: 1%;
+      height: 320px;
+    } 
+
+/* resume  */
+.resume{
+  padding: 2%;
+  background-color: rgb(199, 183, 163)
+  
+}
+iframe{
+  padding-left: 30%;
+}
+
+/*contact*/
+.contact{
+  padding: 2%;
+  background-color: rgb(199, 183, 163) ;
+  font-size: 20px;
+  
+}
+
+#fild {
+ width: 400px;
+  height:20px;
+  font-size:14pt;
+}
+form {
+  padding-left: 50PX;
+  ;
+}
+.button{
+  padding: 10px;
+  
+}
+
+
+/* Footer  */
+.footer {
+	background-color: rgb(199, 183, 163);
+	color: #561C24;
+	text-align: center;
+	padding: 2%;
+  font-size: medium;
+
+}
+
